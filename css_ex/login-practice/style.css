@@ -1,0 +1,26 @@
+div{
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 5px;
+    border-color: gray;
+    padding: 15px;
+    margin: auto;
+}
+#login{
+    width: 250px;
+    border-style: solid;
+    border-width: thin;
+    background-color: rgb(144, 225, 86);
+    border-radius: 5px;
+}
+#username{
+    width: 200px;
+}
+#password{
+    width: 200px;
+}
+h1{
+    text-align: center;
+}
