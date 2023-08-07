@@ -1,0 +1,40 @@
+div{
+    width:260px;
+    height: 250px;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 12px;
+    border-color:rgb(249, 215, 64);
+    padding: 30px;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h1{
+    text-align: center ;
+    color: rgb(249, 215, 64);
+    position: relative;
+    top: 50px;
+}
+#name{
+    width: 250px;
+    height: 25px;
+}
+#email{
+    width: 250px;
+    height: 25px;
+}
+#password{
+    width: 250px;
+    height: 25px;
+}
+#login{
+    width: 260px;
+    height: 30px;
+    border-style: solid;
+    border-width: thin;
+    background-color: rgb(249, 246, 153);
+    border-radius: 5px;
+}
